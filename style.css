@@ -1,0 +1,94 @@
+*{
+    margin: 5px;
+}
+body{
+    background-color: lightblue;
+}
+nav{
+    background-color: blue;
+    position: fixed;
+    width: 96.4%;
+    border-top: 0;
+}
+nav ul{
+    list-style-type: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+nav ul li{
+    display: inline;
+    padding-top: 50px;
+    
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav ul li a:hover{
+    color: black;
+    background-color: red;
+    border-radius: 10px;
+    
+}
+
+article{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+}
+article h2{
+    font-weight: bold;
+    color: blue;
+    font-size: 30px;    
+}
+article h1{
+    font-weight: bold;
+    color: blue;   
+}
+h2{
+    font-weight: bold;
+    color: blue;
+    font-size: 30px;    
+}
+.emeka{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article p{
+    font-size: 20px;
+}
+footer{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.emmy{
+    padding-left: 500px;
+    padding-top: 5px;
+}
+input{
+    border-radius: 10px;
+    outline-width: 10px;
+    width: 250px;
+}
+textarea{
+    border-width: 2px;
+    border-color: black;
+}
+.ammy{
+    margin-top: 100px;
+}
+.afoma{
+    margin-left: 200px; 
+    padding: 50px; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    color: #fff; 
+    background-color: blue;}
